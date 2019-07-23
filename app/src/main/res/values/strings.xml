@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Contas Básicas</string>
+    <string name="titulo">Calculadora básica</string>
+    <string name="dica1">Digite o número 1</string>
+    <string name="dica2">Digite o número 2</string>
+    <string name="btn">Soma</string>
+</resources>
